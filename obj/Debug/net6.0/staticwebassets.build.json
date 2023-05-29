@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FbTxWbNeWEYaCo9sWHeyWRMKCXYEI6mivslbZCsCY7E=",
+  "Source": "TicketAppApi",
+  "BasePath": "_content/TicketAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TicketAppApi\\wwwroot",
+      "Source": "TicketAppApi",
+      "ContentRoot": "E:\\Code\\VS2022\\TicketAppApi\\wwwroot\\",
+      "BasePath": "_content/TicketAppApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Code\\VS2022\\TicketAppApi\\wwwroot\\404.html",
+      "SourceId": "TicketAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Code\\VS2022\\TicketAppApi\\wwwroot\\",
+      "BasePath": "_content/TicketAppApi",
+      "RelativePath": "404.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\404.html"
+    }
+  ]
+}
